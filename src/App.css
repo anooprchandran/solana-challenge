@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background: linear-gradient(40deg,#857e99,#94e2f6c7,#56587a);
+  background: linear-gradient(40deg,#4400ff,#94e2f6c7,#187d01);
   background-size: 180% 180%;
   animation: gradient-animation 27s ease infinite;
   min-height: 100vh;
@@ -29,7 +29,7 @@
   width: 50%;
 }
 .div1 img{
-  width: 100px;
+  width: 0;
 }
 .div2{
   display: flex;
@@ -53,7 +53,7 @@
   }
 }
 .custom-button {
-  background-image: linear-gradient(to right, #3c7c7e 0%, #85D8CE  51%, #b43c98  100%);
+  background-image: linear-gradient(to right, #35cf35 0%, #85D8CE  51%, #e846c2  100%);
   margin: 10px;
   padding: 15px 45px;
   text-align: center;
@@ -61,7 +61,7 @@
   transition: 0.5s;
   background-size: 200% auto;
   color: white;            
-  box-shadow: 0 0 20px #eee;
+  box-shadow: 0 0 20px #d18484;
   border-radius: 10px;
   display: block;
 }
@@ -73,7 +73,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #61fbc0;
 }
 
 @keyframes App-logo-spin {
